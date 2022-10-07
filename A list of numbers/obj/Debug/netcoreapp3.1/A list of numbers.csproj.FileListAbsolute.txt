@@ -1,0 +1,13 @@
+D:\C#\A list of numbers\A list of numbers\bin\Debug\netcoreapp3.1\A list of numbers.exe
+D:\C#\A list of numbers\A list of numbers\bin\Debug\netcoreapp3.1\A list of numbers.deps.json
+D:\C#\A list of numbers\A list of numbers\bin\Debug\netcoreapp3.1\A list of numbers.runtimeconfig.json
+D:\C#\A list of numbers\A list of numbers\bin\Debug\netcoreapp3.1\A list of numbers.runtimeconfig.dev.json
+D:\C#\A list of numbers\A list of numbers\bin\Debug\netcoreapp3.1\A list of numbers.dll
+D:\C#\A list of numbers\A list of numbers\bin\Debug\netcoreapp3.1\A list of numbers.pdb
+D:\C#\A list of numbers\A list of numbers\obj\Debug\netcoreapp3.1\A list of numbers.csprojAssemblyReference.cache
+D:\C#\A list of numbers\A list of numbers\obj\Debug\netcoreapp3.1\A list of numbers.AssemblyInfoInputs.cache
+D:\C#\A list of numbers\A list of numbers\obj\Debug\netcoreapp3.1\A list of numbers.AssemblyInfo.cs
+D:\C#\A list of numbers\A list of numbers\obj\Debug\netcoreapp3.1\A list of numbers.csproj.CoreCompileInputs.cache
+D:\C#\A list of numbers\A list of numbers\obj\Debug\netcoreapp3.1\A list of numbers.dll
+D:\C#\A list of numbers\A list of numbers\obj\Debug\netcoreapp3.1\A list of numbers.pdb
+D:\C#\A list of numbers\A list of numbers\obj\Debug\netcoreapp3.1\A list of numbers.genruntimeconfig.cache
